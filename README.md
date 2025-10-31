@@ -1,1 +1,1 @@
-# Sidostore.GitHub.io
+# sidostore.github.io
